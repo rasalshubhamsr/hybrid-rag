@@ -1,4 +1,4 @@
-# 🔍 Hybrid RAG Demo
+# 🔍 Hybrid RAG
 
 A **production-ready Hybrid RAG pipeline** that fuses structured SQL exact-match retrieval with unstructured semantic vector search to deliver accurate, low-latency, hallucination-resistant responses.
 
