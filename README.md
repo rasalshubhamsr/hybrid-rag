@@ -7,7 +7,7 @@ Built as a public reference implementation inspired by enterprise-grade RAG syst
 ---
 
 ## 🏗️ Architecture
-
+     
 ```
 User Query
     │
